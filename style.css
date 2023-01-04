@@ -1,0 +1,49 @@
+li{
+    color:blueviolet;
+    display: inline;
+    background-color: #ffffff;
+    margin-inline: 100;
+    font-family: 'Roboto';font-size: 50px;
+    margin-inline-end: 20%;
+   
+  } 
+
+ul{
+    background-color: rgba(184, 180, 185, 0.945);
+
+}
+nav{
+	
+	text-align: center;
+}
+
+main{
+    
+}
+h2{
+    text-align: center;
+    color: blue;
+    
+    padding-top: 10px;
+    padding-bottom: 10px; 
+}
+p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    width: 70%;
+    margin-left: 20%;
+    margin-right: 30%;
+}
+i{
+    font-size: 40px;
+    color: blueviolet;
+}
+i:hover{
+    cursor: pointer;
+    color: blue;
+}
+img{
+    width: 60%;
+    margin-left: 20%;
+}
